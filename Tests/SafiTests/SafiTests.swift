@@ -36,6 +36,5 @@ class SafiTests: XCTestCase {
     
     XCTAssertEqual(sum, 333)
   }
-  
 }
 
