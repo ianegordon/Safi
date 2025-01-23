@@ -1,4 +1,4 @@
 # Safi
 Swift Mathematics Package
 
-WARNING: May NOT produce correct answers
+WARNING: This framework may NOT produce strictly correct answers.
